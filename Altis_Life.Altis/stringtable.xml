@@ -575,7 +575,7 @@
             <Italian>Debug</Italian>
             <Russian></Russian>
             <German>Debug</German>
-            <French>Debug</French>
+            <French>Console</French>
             <Portuguese>Depuração</Portuguese>
             <Polish>Debug</Polish>
         </Key>
@@ -597,7 +597,7 @@
             <Italian>GodMode</Italian>
             <Russian></Russian>
             <German>Gott-Mod</German>
-            <French>God</French>
+            <French>Invinsible</French>
             <Portuguese>Modo Deus</Portuguese>
             <Polish>GodMode</Polish>
         </Key>
@@ -698,7 +698,7 @@
             <Italian>Non puoi superare i €999.999</Italian>
             <Russian></Russian>
             <German>Maximaler Wert $999,999!</German>
-            <French>Vous ne pouvez pas aller au-dessus $999,999 !</French>
+            <French>Le montant maximum est de $999,999 !</French>
             <Portuguese>Você não pode ir além de $999,999!</Portuguese>
             <Polish>Nie można obracać kwotami wyższymi niż $999,999!</Polish>
         </Key>
@@ -817,7 +817,7 @@
             <Czech>Commander/Tactical View Disabled</Czech>
             <Spanish>Commander/Tactical View Disabled</Spanish>
             <Russian>Commander/Tactical View Disabled</Russian>
-            <French>Commander/Vue tactique désactivée</French>
+            <French>Vue tactique désactivée</French>
             <German>Befehlshaber-Übersicht deaktiviert.</German>
             <Italian>Commander/Tactical View Disabled</Italian>
             <Portuguese>Commander/Tactical View Disabled</Portuguese>
@@ -1217,7 +1217,7 @@
             <Spanish>Mensaje a Enviar:</Spanish>
             <Russian></Russian>
             <German>Deine Nachricht:</German>
-            <French>SMS à Envoyer :</French>
+            <French>Message :</French>
             <Italian>Messaggio da inviare:</Italian>
             <Portuguese>Mensagem à enviar:</Portuguese>
             <Polish>Treść wiadomości</Polish>
@@ -1329,7 +1329,7 @@
             <Spanish>You have sent a message to all EMS Units.</Spanish>
             <Russian>You have sent a message to all EMS Units.</Russian>
             <German>Du hast eine Nachricht an alle Sanitäter gesendet.</German>
-            <French>Vous avez envoyé un message au SAMU.</French>
+            <French>Vous avez envoyé un message au médecins.</French>
             <Italian>You have sent a message to all EMS Units.</Italian>
             <Portuguese>You have sent a message to all EMS Units.</Portuguese>
             <Polish>You have sent a message to all EMS Units.</Polish>
@@ -2069,7 +2069,7 @@
         <Key ID="STR_GNOTF_KickOutGang">
             <Original>You have been kicked out of the gang.</Original>
             <Czech>You have been kicked out of the gang.</Czech>
-            <French>Vous avez été éjecté de votre gang.</French>
+            <French>Vous avez été exclu de votre gang.</French>
             <Spanish>You have been kicked out of the gang.</Spanish>
             <Italian>You have been kicked out of the gang.</Italian>
             <Polish>You have been kicked out of the gang.</Polish>
@@ -2406,7 +2406,7 @@
             <Spanish>Dar Llave</Spanish>
             <Russian></Russian>
             <German>Geben</German>
-            <French>Donner Clef</French>
+            <French>>Preter Clef</French>
             <Italian>Dai Chiave</Italian>
             <Portuguese>Dar Chave</Portuguese>
             <Polish>Daj klucz</Polish>
@@ -2474,7 +2474,7 @@
             <Spanish>Lista de Busqueda</Spanish>
             <Russian></Russian>
             <German>Fahndungsliste</German>
-            <French>Interpol</French>
+            <French>Interpole</French>
             <Italian>Lista Ricercati</Italian>
             <Portuguese>Lista de Foragidos</Portuguese>
             <Polish>Poszukiwani</Polish>
@@ -2518,7 +2518,7 @@
             <Spanish>Sincronizar</Spanish>
             <Russian></Russian>
             <German>Speichern</German>
-            <French>Sync Data</French>
+            <French>Sauvegarde</French>
             <Italian>Salva Dati</Italian>
             <Portuguese>Sincronizar Dados</Portuguese>
             <Polish>Synchronizuj</Polish>
@@ -3359,7 +3359,7 @@
             <Spanish>Por favor, no te muevas</Spanish>
             <Russian></Russian>
             <German>Bitte bewege dich nicht!</German>
-            <French>Ne bougez pas</French>
+            <French>Ne bougez pas, le médecin s'occupe de vous...</French>
             <Italian>Attendi pazientemente</Italian>
             <Portuguese>Fique parado por favor</Portuguese>
             <Polish>Proszę się nie ruszać</Polish>
@@ -3370,7 +3370,7 @@
             <Spanish>Debes estar a 5m mientras que te curan.</Spanish>
             <Russian></Russian>
             <German>Du musst in der Nähe vom Arzt bleiben, damit er dich behandeln kann.</German>
-            <French>Vous devez être à moins de 5m du médecin pendant qu'il vous soigne.</French>
+            <French>Veuillez rester à moins de 5m du médecin afin qu'il vous soigne.</French>
             <Italian>Devi restare entro 5m dal dottore per essere curato</Italian>
             <Portuguese>Você tem que estar a 5m para o médico curá-lo</Portuguese>
             <Polish>Musisz być w pobliżu doktora gdy ten cię leczy - ok 5m</Polish>
@@ -4522,7 +4522,7 @@
         <Key ID="STR_NOTF_ATM">
             <Original>&lt;t color='#ADFF2F'&gt;ATM&lt;/t&gt;</Original>
             <Czech>&lt;t color='#ADFF2F'&gt;Bankomat&lt;/t&gt;</Czech>
-            <French>&lt;t color='#ADFF2F'&gt;DAB&lt;/t&gt;</French>
+            <French>&lt;t color='#ADFF2F'&gt;Distributeur&lt;/t&gt;</French>
             <Spanish>&lt;t color='#ADFF2F'&gt;ATM&lt;/t&gt;</Spanish>
             <Italian>&lt;t color='#ADFF2F'&gt;ATM&lt;/t&gt;</Italian>
             <Polish>&lt;t color='#ADFF2F'&gt;Bankomat&lt;/t&gt;</Polish>
@@ -4533,7 +4533,7 @@
         <Key ID="STR_NOTF_captureGangHideout">
             <Original>Capture Gang Hideout</Original>
             <Czech>Zachyťte Gang skrýš</Czech>
-            <French>Capturer la cachette de gang</French>
+            <French>Capturer la planque de gang</French>
             <Spanish>Capturar Escondite</Spanish>
             <Italian>Cattura Banda Nascondiglio</Italian>
             <Polish>Przechwytywanie Banda Kryjówka</Polish>
@@ -4647,7 +4647,7 @@
             <Czech></Czech>
             <Spanish>Necesitas %1 para transmitir un anuncio!</Spanish>
             <Russian></Russian>
-            <French>Vous avez besoin de $%1 pour envoyer une diffusion !</French>
+            <French>Vous avez besoin de $%1 pour envoyer diffuser un message !</French>
             <German>Du benötigst $%1, eine Nachricht senden zu können!</German>
             <Italian></Italian>
             <Portuguese>Você precisa de $%1 para enviar uma transmissão!</Portuguese>
@@ -4795,7 +4795,7 @@
             <Spanish>Has perdido tu licencia de armas por homicidio.</Spanish>
             <Russian></Russian>
             <German>Du hast deinen Waffenschein wegen Mordes verloren.</German>
-            <French>Vous avez perdu votre permis d'armes à feu pour homicide involontaire.</French>
+            <French>Vous avez perdu votre permis d'armes à feu pour homicide.</French>
             <Italian>Hai perso il tuo Porto d'Armi a causa di un omicidio</Italian>
             <Portuguese>Você perdeu suas licenças de porte de arma por cometer homicídio.</Portuguese>
             <Polish>Straciłeś pozwolenie na broń z uwagi na zabijanie ludzi z broni palnej</Polish>
@@ -7860,7 +7860,7 @@
             <Spanish>Has procesado %1 a %2 por $%3</Spanish>
             <Russian></Russian>
             <German>Du hast %1 für $%3 in %2 verarbeitet.</German>
-            <French>Vous avez traité %1 en %2 pour $%3</French>
+            <French>Vous avez transformé %1 en %2 pour $%3</French>
             <Italian>Hai processato %1 in %2 al costo di $%3</Italian>
             <Portuguese>Você trasformou %1 em %2 por R$%3</Portuguese>
             <Polish>Przetworzyłeś %1 na % za $%3</Polish>
@@ -8653,7 +8653,7 @@
             <Spanish>Ya has usado la función de sincronización, solo la puedes usar una vez cada 5 minutos.</Spanish>
             <Russian></Russian>
             <German>Du hast bereits deine Daten gespeichert, diese Funktion kann nur einmal alle 5 Minuten verwendet werden.</German>
-            <French>Vous avez déjà utilisé l'option de synchronisation, vous ne pouvez utiliser cette fonction une fois toutes les 5 minutes.</French>
+            <French>Vous avez déjà utilisé l'option de sauvegarde, vous ne pouvez utiliser cette fonction une fois toutes les 5 minutes.</French>
             <Italian>Hai già utilizzato la funzione di salva dati, puoi usare quest'opzione solo una volta ogni 5 minuti.</Italian>
             <Portuguese>Você já usou a opção de sincronização, você só pode usar esse recurso uma vez a cada 5 minutos.</Portuguese>
             <Polish>Użyłeś niedawno opcji synchronizacji, możesz jej używać maksymalnie co 5 minut.</Polish>
@@ -8664,7 +8664,7 @@
             <Spanish>Se esta sinconizando tu información con el server.\n\nPor favor espera 20 segundos antes de salir del server.</Spanish>
             <Russian></Russian>
             <German>Speichere deine Spieler-Informationen auf dem Server. \n\nBitte warte bis zu 20 Sekunden vor dem Verlassen.</German>
-            <French>Synchronisation des informations de joueur sur le serveur.\n\nS'il vous plaît, veuillez attendre 20 secondes avant de vous déconnecter.</French>
+            <French>Sauvegarde de vos informations sur le serveur.\n\nS'il vous plaît, veuillez attendre 20 secondes avant de vous déconnecter.</French>
             <Italian>Salvando le informazioni giocatore sul server.\n\nAttendere fino a 20 secondi prima di abbandonare.</Italian>
             <Portuguese>Sincronizando informação do jogador com o servidor.\n\n Por favor aguarde 20 segundos antes de sair.</Portuguese>
             <Polish>Synchronizuję informację z serwere, .\n\nProszę poczekać ok 20 sekund przed opuszczeniem serwera</Polish>
@@ -8677,7 +8677,7 @@
             <Spanish>Porque robastes el banco no puedes usar el ATM por %1 minutos.</Spanish>
             <Russian></Russian>
             <German>Da du die Zentralbank ausgeraubt hast, kannst du für %1 Minuten keinen Bankomaten benutzen.</German>
-            <French>Vous avez pillé la banque, vous ne pouvez pas utiliser de DAB pendant %1 minutes.</French>
+            <French>Vous avez braqué la banque, vous ne pouvez pas utiliser de distributeur pendant %1 minutes.</French>
             <Italian>Avendo appena rapinato la banca non puoi utilizzare il Bancomat per %1 minuti.</Italian>
             <Portuguese>Você não pode usar o ATM por %1 minuto(s), pois você assaltou o banco.</Portuguese>
             <Polish>Z uwagi na to że okradłeś bank nie możesz korzystać z bankomatu przez najbliższe %1 minut.</Polish>
@@ -8809,7 +8809,7 @@
             <Spanish>Necesitas una licencia de buceo para usar esta tienda!</Spanish>
             <Russian></Russian>
             <German>Du benötigst einen Taucherschein, um dieses Tauchergeschäft nutzen zu können!</German>
-            <French>Vous devez avoir votre diplôme de plongée pour utiliser ce magasin !</French>
+            <French>Vous devez avoir votre licence de plongée pour utiliser ce magasin !</French>
             <Italian>Ti serve la licenza di pesca per usare questo negozio!</Italian>
             <Portuguese>Você precisa de uma Licença de Mergulho para usar essa loja!</Portuguese>
             <Polish>Nie posiadasz licencji nurka aby kupować w tym sklepie!</Polish>
@@ -8952,7 +8952,7 @@
             <Spanish>Hay un vehículo bloqueando el punto de Spawn.</Spanish>
             <Russian></Russian>
             <German>Ein Fahrzeug blockiert gerade den Spawnpunkt.</German>
-            <French>Il y a actuellement un véhicule qui bloque le point de spawn</French>
+            <French>Un véhicule qui bloque le point de spawn du concessionaire</French>
             <Italian>C'è già un veicolo che blocca la zona di spawn</Italian>
             <Portuguese>Existe um veiculo bloquenado a area de respaw</Portuguese>
             <Polish>Inny pojazd blokuje miejsce odrodzenia pojazdów</Polish>
@@ -8963,7 +8963,7 @@
             <Spanish>Comprastes %1 por $%2</Spanish>
             <Russian></Russian>
             <German>Du kaufst eine(n) %1 für $%2.</German>
-            <French>Vous avez acheté un %1 pour $%2</French>
+            <French>Vous avez acheté un(e) %1 pour $%2</French>
             <Italian>Hai comprato un %1 al costo di $%2</Italian>
             <Portuguese>Você comprou %1 por R$%2</Portuguese>
             <Polish>Kupiłeś %1 za $%2</Polish>
@@ -9051,7 +9051,7 @@
             <Spanish>Clasificación de Armadura:</Spanish>
             <Russian></Russian>
             <German>Panzerungsbewertung:</German>
-            <French>Blindage :</French>
+            <French>Resistance :</French>
             <Italian>Resistenza:</Italian>
             <Portuguese>Resistência:</Portuguese>
             <Polish>Pancerz</Polish>
@@ -9540,7 +9540,7 @@
         <Key ID="STR_MAR_Police_HQ">
             <Original>Police HQ</Original>
             <Czech>Police HQ</Czech>
-            <French>QG de la police</French>
+            <French>Commisariat de police</French>
             <Spanish>Comisaria de Policía</Spanish>
             <Italian>QG Polizia</Italian>
             <Russian></Russian>
@@ -11599,7 +11599,7 @@
         <Key ID="STR_SpyDetect_Descript">
             <Original>You were detected for cheating and have been reported to the server. Enjoy your day.</Original>
             <Czech>Vy byly detekovány za podvádění a byly zaznamenány na server. Užijte si svůj den.</Czech>
-            <French>Vous avez été détecté pour triche et avez été signalé au serveur. Profitez de votre journée.</French>
+            <French>Vous avez été détecté par notre anti-cheat, vous avez été signalé au serveur. Profitez de votre journée.</French>
             <Spanish>Fue detectada por hacer trampas y se le ha informado al servidor. Disfruta tu día.</Spanish>
             <Italian>Lei è stato rilevato per truffa e sono stati segnalati per il server. Buona giornata.</Italian>
             <Polish>Ty wykryto oszustwo i zostały zgłoszone do serwera. Miłego dnia.</Polish>
@@ -11656,7 +11656,7 @@
         <Key ID="STR_TextMessage_Title">
             <Original>Received A Text Message</Original>
             <Czech>Přijetí textové zprávy</Czech>
-            <French>SMS reçu</French>
+            <French>Nouveau message</French>
             <Spanish>Recibió un mensaje de texto</Spanish>
             <Italian>Hai ricevuto un messaggio di testo</Italian>
             <Polish>Otrzymał wiadomość tekstową</Polish>
@@ -11667,7 +11667,7 @@
         <Key ID="STR_PoliceDispatch_Title">
             <Original>911 Dispatch Center</Original>
             <Czech>911 Dispatch Center</Czech>
-            <French>911 Dispatch Centre</French>
+            <French>Centrale</French>
             <Spanish>911 Centro de Despacho</Spanish>
             <Italian>911 Centro Richieste</Italian>
             <Polish>911 Dispatch Center</Polish>
@@ -11713,7 +11713,7 @@
         <Key ID="STR_Police_Tan">
             <Original>Police HQ</Original>
             <Czech></Czech>
-            <French>QG de Police</French>
+            <French>Commissariat de Police</French>
             <Spanish></Spanish>
             <Italian></Italian>
             <Polish></Polish>
@@ -11746,7 +11746,7 @@
         <Key ID="STR_Police_Heli">
             <Original>Police Heli</Original>
             <Czech></Czech>
-            <French>Héliport de police</French>
+            <French>Héliport de la police</French>
             <Spanish></Spanish>
             <Italian></Italian>
             <Polish></Polish>
